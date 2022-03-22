@@ -1,0 +1,8 @@
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\bin\Debug\exercicio5.exe.config
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\bin\Debug\exercicio5.exe
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\bin\Debug\exercicio5.pdb
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.AssemblyReference.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\obj\Debug\exercicio5.exe
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio5\exercicio5\obj\Debug\exercicio5.pdb

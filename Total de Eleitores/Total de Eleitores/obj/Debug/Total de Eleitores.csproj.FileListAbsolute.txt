@@ -1,0 +1,8 @@
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\bin\Debug\Total de Eleitores.exe.config
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\bin\Debug\Total de Eleitores.exe
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\bin\Debug\Total de Eleitores.pdb
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\obj\Debug\Total de Eleitores.csproj.AssemblyReference.cache
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\obj\Debug\Total de Eleitores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\obj\Debug\Total de Eleitores.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\obj\Debug\Total de Eleitores.exe
+C:\Users\Lucas Veloso\source\repos\Total de Eleitores\Total de Eleitores\obj\Debug\Total de Eleitores.pdb
