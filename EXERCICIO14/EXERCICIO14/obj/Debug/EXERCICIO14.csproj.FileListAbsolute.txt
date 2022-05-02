@@ -1,0 +1,8 @@
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\bin\Debug\EXERCICIO14.exe.config
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\bin\Debug\EXERCICIO14.exe
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\bin\Debug\EXERCICIO14.pdb
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.csproj.AssemblyReference.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.exe
+C:\Users\Lucas Veloso\Desktop\atividades C#\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.pdb

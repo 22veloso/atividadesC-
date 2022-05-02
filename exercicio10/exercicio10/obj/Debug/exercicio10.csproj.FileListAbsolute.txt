@@ -1,0 +1,8 @@
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\bin\Debug\exercicio10.exe.config
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\bin\Debug\exercicio10.exe
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\bin\Debug\exercicio10.pdb
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\obj\Debug\exercicio10.csproj.AssemblyReference.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\obj\Debug\exercicio10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\obj\Debug\exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\obj\Debug\exercicio10.exe
+C:\Users\Lucas Veloso\Desktop\atividades C#\exercicio10\exercicio10\obj\Debug\exercicio10.pdb
